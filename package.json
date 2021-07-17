@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "connect-mongodb-session": "^2.4.1",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
+    "express-session": "^1.17.2",
     "mongoose": "^5.13.2",
     "uuid": "^8.3.2"
   },
